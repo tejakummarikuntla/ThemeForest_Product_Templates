@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.ninetheme.com	TRUE	/	FALSE	1999999999	__cfduid	d26691515e94370416f274e2bda3589111597921249
+ninetheme.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
